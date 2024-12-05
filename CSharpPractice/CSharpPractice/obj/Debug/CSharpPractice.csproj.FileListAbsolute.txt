@@ -1,0 +1,7 @@
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.AssemblyReference.cache
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\DOTNET\DotNetCore\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
