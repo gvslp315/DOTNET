@@ -11,6 +11,15 @@ namespace CSharpPractice
         static void Main(string[] args)
         {
             Console.WriteLine("hi hello good");
+
+            //If statement
+            int x = 10;
+            if (x % 2 == 0)
+            {
+                Console.WriteLine("it is even num");
+            }
+
+            if
         }
     }
 }

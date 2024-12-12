@@ -1,7 +1,7 @@
-C:\DOTNET\DotNetCore\SampleCode\SampleCode\bin\Debug\SampleCode.exe.config
-C:\DOTNET\DotNetCore\SampleCode\SampleCode\bin\Debug\SampleCode.exe
 C:\DOTNET\DotNetCore\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
 C:\DOTNET\DotNetCore\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.AssemblyReference.cache
 C:\DOTNET\DotNetCore\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
-C:\DOTNET\DotNetCore\SampleCode\SampleCode\obj\Debug\SampleCode.exe
 C:\DOTNET\DotNetCore\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
+C:\DOTNET\DotNetCore\SampleCode\SampleCode\bin\Debug\SampleCode.dll.config
+C:\DOTNET\DotNetCore\SampleCode\SampleCode\bin\Debug\SampleCode.dll
+C:\DOTNET\DotNetCore\SampleCode\SampleCode\obj\Debug\SampleCode.dll

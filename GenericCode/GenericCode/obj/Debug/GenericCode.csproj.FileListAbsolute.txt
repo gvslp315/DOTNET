@@ -1,0 +1,7 @@
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\bin\Debug\GenericCode.exe.config
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\bin\Debug\GenericCode.exe
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\bin\Debug\GenericCode.pdb
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\obj\Debug\GenericCode.csproj.AssemblyReference.cache
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\obj\Debug\GenericCode.csproj.CoreCompileInputs.cache
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\obj\Debug\GenericCode.exe
+C:\DOTNET\DotNetCore\GenericCode\GenericCode\obj\Debug\GenericCode.pdb

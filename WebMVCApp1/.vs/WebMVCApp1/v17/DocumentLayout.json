@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\webmvcapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:webmvcapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:02:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebMVCApp1",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\WebMVCApp1.csproj",
+              "RelativeDocumentMoniker": "WebMVCApp1.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\WebMVCApp1.csproj",
+              "RelativeToolTip": "WebMVCApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T05:02:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:07.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:13:30.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeDBContext.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:12:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T09:11:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:44:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:00:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:27:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:58:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:58:02.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

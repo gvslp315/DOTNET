@@ -75,6 +75,10 @@ namespace SampleCode
             Bhahubali bahu = new Bhahubali();
             bahu.Action();
             bahu.Action("Got", 150);
+
+            GenericClass<string> gen = new GenericClass<string>("i ma genric class");
+
+            
         }
     }
 }
