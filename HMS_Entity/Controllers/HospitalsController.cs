@@ -54,7 +54,7 @@ namespace HMS_Entity.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,DoctorName,Qualification,Specialist")] Hospital hospital)
+        public async Task<IActionResult> Create([Bind("Id,DoctorName,Qualification,Specialist,mId")] Hospital hospital)
         {
             if (ModelState.IsValid)
             {
@@ -81,12 +81,12 @@ namespace HMS_Entity.Controllers
             return View(hospital);
         }
 
-        // POST: Hospitals/Edit/5
+        // POST: Hospital/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,DoctorName,Qualification,Specialist")] Hospital hospital)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,DoctorName,Qualification,Specialist,mId")] Hospital hospital)
         {
             if (id != hospital.Id)
             {
@@ -116,7 +116,7 @@ namespace HMS_Entity.Controllers
             return View(hospital);
         }
 
-        // GET: Hospitals/Delete/5
+        // GET: Hospital/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -134,7 +134,7 @@ namespace HMS_Entity.Controllers
             return View(hospital);
         }
 
-        // POST: Hospitals/Delete/5
+        // POST: Hospital/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

@@ -6,17 +6,36 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 
-    <form asp-action="CreateDoctor" asp-controller="Home" method="post">
-       <label for="Doctor">Name:</label>
-       <input type="text" id="Doctor" name="Doctor" />
+    @* <form asp-action="CreateDoctor" asp-controller="Home" method="post"> *@
+    @*    <label for="Doctor">Name:</label> *@
+    @*    <input type="text" id="Doctor" name="Doctor" /> *@
 
-        <label for="Qualification">Qualification:</label>
-        <input type="text" id="Qualification" name="Qualification" />
+    @*     <label for="Qualification">Qualification:</label> *@
+    @*     <input type="text" id="Qualification" name="Qualification" /> *@
 
-        <label for="Specialist">Specialist:</label>
-        <input type="text" id="Specialist" name="Specialist" />
+    @*     <label for="Specialist">Specialist:</label> *@
+    @*     <input type="text" id="Specialist" name="Specialist" /> *@
 
-        <input type="submit" value="SubmitData"/>
+    @*     <input type="submit" value="SubmitData"/> *@
 
+    @* </form> *@
+    <br />
+    <br />
+
+    <form asp-action="ShowMedical" asp-controller="Home" method="post">
+        <label for="">Patient Name</label>
+        <input type="text" id="pName" name="pName" />
+
+        <label for="">Disease Name</label>
+        <input type="text" id="dName" name="dName" />
+
+        <input type="submit" value="SubmitData" />
     </form>
 </div>
+
+@section Scripts{
+  
+    @{
+        await Html.RenderPartialAsync("_PartialView");
+    }
+}

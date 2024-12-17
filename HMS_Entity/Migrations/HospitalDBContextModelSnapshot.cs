@@ -41,9 +41,37 @@ namespace HMS_Entity.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int>("mId")
+                        .HasColumnType("integer");
+
                     b.HasKey("Id");
 
                     b.ToTable("Hospital");
+                });
+
+            modelBuilder.Entity("HMS_Entity.Models.Medical", b =>
+                {
+                    b.Property<int>("mId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("mId"));
+
+                    b.Property<string>("mLocation")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("mName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("mSpecial")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("mId");
+
+                    b.ToTable("Medical");
                 });
 #pragma warning restore 612, 618
         }

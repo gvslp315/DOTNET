@@ -1,0 +1,43 @@
+﻿@model HMS_Entity.Models.Medical
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Medical</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="mName" class="control-label"></label>
+                <input asp-for="mName" class="form-control" />
+                <span asp-validation-for="mName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mLocation" class="control-label"></label>
+                <input asp-for="mLocation" class="form-control" />
+                <span asp-validation-for="mLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mSpecial" class="control-label"></label>
+                <input asp-for="mSpecial" class="form-control" />
+                <span asp-validation-for="mSpecial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

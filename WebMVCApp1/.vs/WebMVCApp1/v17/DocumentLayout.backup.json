@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\webmvcapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:webmvcapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{309F734C-7965-4622-893A-C4C5ABAA3320}|WebMVCApp1.csproj|c:\\dotnet\\dotnetcore\\webmvcapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,11 +54,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:02:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebMVCApp1",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\WebMVCApp1.csproj",
+              "RelativeDocumentMoniker": "WebMVCApp1.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\WebMVCApp1.csproj",
+              "RelativeToolTip": "WebMVCApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T05:02:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
@@ -62,19 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:13:30.946Z"
+              "WhenOpened": "2024-12-10T05:13:30.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmployeeDBContext.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\EmployeeDBContext.cs",
               "RelativeDocumentMoniker": "EmployeeDBContext.cs",
@@ -82,11 +116,12 @@
               "RelativeToolTip": "EmployeeDBContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:12:14.025Z"
+              "WhenOpened": "2024-12-10T09:12:14.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -98,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -110,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -123,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -135,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -147,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\WebMVCApp1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
