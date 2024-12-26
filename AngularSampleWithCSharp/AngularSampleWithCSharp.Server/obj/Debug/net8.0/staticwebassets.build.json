@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "t8TX1nm2zmb4eLG2+Ca+y4lzahsiRAiLLtG9/CWNkFE=",
+  "Source": "AngularSampleWithCSharp.Server",
+  "BasePath": "_content/AngularSampleWithCSharp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\DOTNET\\DotNetCore\\AngularSampleWithCSharp\\angularsamplewithcsharp.client\\angularsamplewithcsharp.client.esproj",
+      "Version": 2,
+      "Source": "angularsamplewithcsharp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

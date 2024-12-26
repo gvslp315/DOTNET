@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\models\\petanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:models\\petanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\controllers\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\models\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:models\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\demoprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:demoprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76464EA9-E59D-4A95-B3B9-54C465239AEB}|..\\DemoProjectMVC\\DemoProjectMVC.csproj|c:\\dotnet\\dotnetcore\\demoprojectmvc\\demoprojectmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|c:\\dotnet\\dotnetcore\\demoprojectapi\\demoprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FBDEA4D-8DB6-4AFE-9A06-5576D4E840D3}|DemoProjectAPI.csproj|solutionrelative:demoprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Views\\Pet\\Edit.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Edit.cshtml",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Views\\Pet\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:40:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:00:07.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Views\\Pet\\Index.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Pet\\Index.cshtml",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Views\\Pet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:58:16.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Controllers\\PetController.cs",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:16:40.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Controllers\\PetService.cs",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Controllers\\PetService.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Controllers\\PetService.cs",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Controllers\\PetService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:30:10.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:55:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\.cs",
+              "RelativeDocumentMoniker": ".cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\.cs",
+              "RelativeToolTip": ".cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:01:31.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetAnimal.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Models\\PetAnimal.cs",
+              "RelativeDocumentMoniker": "Models\\PetAnimal.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Models\\PetAnimal.cs",
+              "RelativeToolTip": "Models\\PetAnimal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:00:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetDBContext.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\PetDBContext.cs",
+              "RelativeDocumentMoniker": "PetDBContext.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\PetDBContext.cs",
+              "RelativeToolTip": "PetDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:12:57.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\Program.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\Program.cs",
+              "RelativeToolTip": "..\\DemoProjectMVC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:55:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DemoProjectAPI.http",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\DemoProjectAPI.http",
+              "RelativeDocumentMoniker": "DemoProjectAPI.http",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\DemoProjectAPI.http",
+              "RelativeToolTip": "DemoProjectAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-25T05:59:07.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetValidator.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Models\\PetValidator.cs",
+              "RelativeDocumentMoniker": "Models\\PetValidator.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Models\\PetValidator.cs",
+              "RelativeToolTip": "Models\\PetValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:25:18.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T06:31:09.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:17:03.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DemoProjectMVC.csproj",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\DemoProjectMVC.csproj",
+              "RelativeDocumentMoniker": "..\\DemoProjectMVC\\DemoProjectMVC.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectMVC\\DemoProjectMVC.csproj",
+              "RelativeToolTip": "..\\DemoProjectMVC\\DemoProjectMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T09:13:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DemoProjectAPI.csproj",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\DemoProjectAPI.csproj",
+              "RelativeDocumentMoniker": "DemoProjectAPI.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\DemoProjectAPI\\DemoProjectAPI.csproj",
+              "RelativeToolTip": "DemoProjectAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T05:00:27.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AngularSampleWithCSharp.Server.props" />
+</Project>

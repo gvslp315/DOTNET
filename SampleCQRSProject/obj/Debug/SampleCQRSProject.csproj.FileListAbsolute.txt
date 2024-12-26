@@ -1,0 +1,7 @@
+C:\DOTNET\DotNetCore\SampleCQRSProject\obj\Debug\SampleCQRSProject.csproj.AssemblyReference.cache
+C:\DOTNET\DotNetCore\SampleCQRSProject\obj\Debug\SampleCQRSProject.csproj.CoreCompileInputs.cache
+C:\DOTNET\DotNetCore\SampleCQRSProject\bin\Debug\SampleCQRSProject.exe.config
+C:\DOTNET\DotNetCore\SampleCQRSProject\bin\Debug\SampleCQRSProject.exe
+C:\DOTNET\DotNetCore\SampleCQRSProject\bin\Debug\SampleCQRSProject.pdb
+C:\DOTNET\DotNetCore\SampleCQRSProject\obj\Debug\SampleCQRSProject.exe
+C:\DOTNET\DotNetCore\SampleCQRSProject\obj\Debug\SampleCQRSProject.pdb

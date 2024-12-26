@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|c:\\dotnet\\dotnetcore\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|c:\\dotnet\\dotnetcore\\moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|c:\\dotnet\\dotnetcore\\moviesapi\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|solutionrelative:moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|c:\\dotnet\\dotnetcore\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A379083-8D1D-445B-831C-5476215E9B41}|MoviesAPI.csproj|c:\\dotnet\\dotnetcore\\moviesapi\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:57:49.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20241217065501_IntialCreate.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\Migrations\\20241217065501_IntialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241217065501_IntialCreate.cs",
@@ -59,18 +59,17 @@
               "RelativeToolTip": "Migrations\\20241217065501_IntialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:55:01.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:55:01.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:36:41.163Z",
               "EditorCaption": ""
@@ -85,12 +84,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T06:22:33.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:22:33.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MoviesDBContext.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\MoviesAPI\\MoviesDBContext.cs",
               "RelativeDocumentMoniker": "MoviesDBContext.cs",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "MoviesDBContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:21:52.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:21:52.029Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "Models\\Movies.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:20:07.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T06:20:07.219Z"
             }
           ]
         }

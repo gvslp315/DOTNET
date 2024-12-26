@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\commands\\iiemployeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:commands\\iiemployeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|c:\\dotnet\\dotnetcore\\cqrsconsoleappsample\\cqrsconsoleappsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F91D80EB-CF85-4482-9D94-FB006ED781DF}|CQRSconsoleAppSample.csproj|solutionrelative:cqrsconsoleappsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeQueries.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Queries\\IEmployeeQueries.cs",
+              "RelativeDocumentMoniker": "Queries\\IEmployeeQueries.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Queries\\IEmployeeQueries.cs",
+              "RelativeToolTip": "Queries\\IEmployeeQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:31:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeQueries.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Queries\\EmployeeQueries.cs",
+              "RelativeDocumentMoniker": "Queries\\EmployeeQueries.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Queries\\EmployeeQueries.cs",
+              "RelativeToolTip": "Queries\\EmployeeQueries.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:31:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIEmployeeCommands.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Commands\\IIEmployeeCommands.cs",
+              "RelativeDocumentMoniker": "Commands\\IIEmployeeCommands.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Commands\\IIEmployeeCommands.cs",
+              "RelativeToolTip": "Commands\\IIEmployeeCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:34:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeCommands.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Commands\\EmployeeCommands.cs",
+              "RelativeDocumentMoniker": "Commands\\EmployeeCommands.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Commands\\EmployeeCommands.cs",
+              "RelativeToolTip": "Commands\\EmployeeCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:33:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:16:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeQueriesRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:21:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:22:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:32:28.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeQueriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:21:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeCommandsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:21:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeCommandsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:20:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CQRSconsoleAppSample",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\CQRSconsoleAppSample.csproj",
+              "RelativeDocumentMoniker": "CQRSconsoleAppSample.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\CQRSconsoleAppSample\\CQRSconsoleAppSample.csproj",
+              "RelativeToolTip": "CQRSconsoleAppSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T07:17:44.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
