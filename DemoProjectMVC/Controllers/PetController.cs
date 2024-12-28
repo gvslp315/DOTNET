@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Text.Json;
 using DemoProjectAPI.Models;
 //using DemoProjectMVC.Models;
 using Microsoft.AspNetCore.Http;
@@ -36,9 +37,21 @@ namespace DemoProjectMVC.Controllers
         }
 
         // GET: PetController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details()
         {
-            return View();
+            PetAnimal pet = null;
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://localhost:5281/api/PetAnimals");
+                var response = client.GetAsync("PetAnimals").Result;
+
+                if (response.IsSuccessStatusCode)
+                {
+                   // pet = JsonSerializer.Deserialize(response.Content.ReadFromJsonAsync<PetAnimal>()).Result;
+                }
+            }
+
+            return View(pet);
         }
 
         // GET: PetController/Create
@@ -81,7 +94,8 @@ namespace DemoProjectMVC.Controllers
         }
 
         // POST: PetController/Edit/5
-        [HttpPut]
+        // [HttpPut]
+        [HttpPut("PetAnimals/{id}")]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int petId, [Bind("petId, petName, petType, gender, IsVeg")] PetAnimal petAnimal)
         {
@@ -92,7 +106,7 @@ namespace DemoProjectMVC.Controllers
                     client.BaseAddress = new Uri("http://localhost:5281/api/PetAnimals");
 
                     // HTTP PUT to update
-                    var putTask = client.PutAsJsonAsync($"PetAnimals/{petId}", petAnimal);
+                    var putTask = client.PutAsJsonAsync("PetAnimals", petAnimal);
                     putTask.Wait();
 
                     var result = putTask.Result;
@@ -110,24 +124,68 @@ namespace DemoProjectMVC.Controllers
         }
 
         // GET: PetController/Delete/5
-        public ActionResult Delete(int id)
+        //public ActionResult Delete(int id)
+        //{
+        //    return View();
+        //}
+
+        //// POST: PetController/Delete/5
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Delete(int id, IFormCollection collection)
+        //{
+        //    try
+        //    {
+        //        return RedirectToAction(nameof(Index));
+        //    }
+        //    catch
+        //    {
+        //        return View();
+        //    }
+        //}
+
+        public ActionResult Delete()
         {
-            return View();
+            PetAnimal pet = null;
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://localhost:5281/api/PetAnimals");
+                var response = client.GetAsync("PetAnimals").Result;
+
+                if (response.IsSuccessStatusCode)
+                {
+                    pet = response.Content.ReadFromJsonAsync<PetAnimal>().Result;
+                }
+            }
+
+            return View(pet);
         }
 
         // POST: PetController/Delete/5
-        [HttpPost]
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult DeleteConfirmed()
         {
-            try
+            using (var client = new HttpClient())
             {
-                return RedirectToAction(nameof(Index));
+                client.BaseAddress = new Uri("http://localhost:5281/api/PetAnimals");
+
+                // HTTP DELETE to delete
+                var deleteTask = client.DeleteAsync($"PetAnimals/");
+                deleteTask.Wait();
+
+                var result = deleteTask.Result;
+                if (result.IsSuccessStatusCode)
+                {
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Error deleting pet animal.");
+                }
             }
-            catch
-            {
-                return View();
-            }
+
+            return RedirectToAction("Index");
         }
     }
 }

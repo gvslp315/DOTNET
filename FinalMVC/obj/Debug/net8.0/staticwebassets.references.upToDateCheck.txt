@@ -1,0 +1,16 @@
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\DOTNET\DotNetCore\FinalProjectCsharp\obj\Debug\net8.0\staticwebassets.build.json

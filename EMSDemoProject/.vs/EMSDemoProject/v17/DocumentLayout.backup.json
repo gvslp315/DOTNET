@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\emsdemoproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:emsdemoproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|solutionrelative:emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52E0CBB0-0087-49FD-9201-A91D4F4ACCF9}|EMSDemoProject.csproj|c:\\dotnet\\dotnetcore\\emsdemoproject\\emsdemoproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -42,8 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMSDemoProject",
+              "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EMSDemoProject.csproj",
+              "RelativeDocumentMoniker": "EMSDemoProject.csproj",
+              "ToolTip": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EMSDemoProject.csproj",
+              "RelativeToolTip": "EMSDemoProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T13:04:00.826Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -54,11 +70,12 @@
               "RelativeToolTip": "Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:34:10.413Z"
+              "WhenOpened": "2024-12-25T06:34:10.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EMSDemoProject.http",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EMSDemoProject.http",
               "RelativeDocumentMoniker": "EMSDemoProject.http",
@@ -70,45 +87,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T06:15:58.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:10:38.809Z"
+              "WhenOpened": "2024-12-25T06:10:38.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EmsDBContext.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EmsDBContext.cs",
               "RelativeDocumentMoniker": "EmsDBContext.cs",
               "ToolTip": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EmsDBContext.cs",
               "RelativeToolTip": "EmsDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T06:01:43.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20241225062303_IntialRelease.cs",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\Migrations\\20241225062303_IntialRelease.cs",
               "RelativeDocumentMoniker": "Migrations\\20241225062303_IntialRelease.cs",
@@ -120,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -132,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EMSDemoProject.csproj",
               "DocumentMoniker": "C:\\DOTNET\\DotNetCore\\EMSDemoProject\\EMSDemoProject.csproj",
               "RelativeDocumentMoniker": "EMSDemoProject.csproj",
